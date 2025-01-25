@@ -1,6 +1,6 @@
-Here’s a concise version of the `README.md`:
 
-```markdown
+
+
 # ⚡ Electricity Billing System
 
 A Python-based system with MySQL integration for managing electricity bills, payments, fines, and user credits.
